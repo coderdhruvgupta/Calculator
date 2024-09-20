@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="background">#333540</color>
+    <color name="buttons">#333540</color>
+    <color name="buttonequal">#FFE600</color>
+    <color name="text">#C2C2C2</color>
+    <color name="newbg">#1C2733</color>
+
+
+        <color name="t_white">#CCFFFFFF</color>
+
+        <color name="mainCardColor">#C40D141B</color>
+        <color name="cardColor">#800E1317</color>
+        <color name="cal_card_color">#0A0A10</color>
+        <color name="red">#FF0A10</color>
+
+
+</resources>
